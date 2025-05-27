@@ -1,12 +1,8 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dgndmndq3/image/upload/v1748354955/new-top_ueiy9i.png" alt="Scroll Top" width="100%" height="200" />
+  <img src="https://res.cloudinary.com/dgndmndq3/image/upload/v1748354693/top-scroll-2_q7uhcr.png" alt="Scroll Top" width="100%" height="100" />
 </p>
 
 <div align="center">
-
-# 🏰 Muhammad Farhan Maulana 🗡️
-
-## _Full-Stack Dev & Data Science Enthusiast_
 
 [![Portfolio](https://img.shields.io/badge/🏰_Castle-farhanm.site-gold?style=for-the-badge)](https://farhanm.site/)
 [![LinkedIn](https://img.shields.io/badge/🤝_Guild-LinkedIn-blue?style=for-the-badge)](https://linkedin.com/in/muhamma-farhan-m)
@@ -33,19 +29,17 @@ I'm Farhan, a developer who likes building web apps and playing with AI models. 
 ## 🗡️ **Tech Stack**
 
 **Languages:** JavaScript, TypeScript, Python, SQL
+
 **Frontend:** React, Tailwind CSS, Material-UI
+
 **Backend:** Node.js, Express.js, Flask, PostgreSQL, MongoDB
+
 **AI/ML:** OpenAI SDK, PyTorch, TensorFlow
+
 **Tools:** Git, Railway, Prisma ORM
 
 ---
 
-<div align="center">
-
-### 🌟 **Always learning something new** 🌟
-
-</div>
-
 <p align="center">
-  <img src="https://res.cloudinary.com/dgndmndq3/image/upload/v1748354955/new-bottom_isjvgf.png" alt="Scroll Bottom" width="100%" height="200" />
+  <img src="https://res.cloudinary.com/dgndmndq3/image/upload/v1748354693/bottom-scroll-2_n1cf7j.png" alt="Scroll Bottom" width="100%" height="140" />
 </p>
