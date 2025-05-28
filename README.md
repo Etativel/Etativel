@@ -20,110 +20,62 @@
 
 I'm Farhan, a developer who likes building web apps and playing with AI models. I enjoy building exciting projects involving **Web Development** and **machine learning**.
 
-## 🗡️ **Tech Stack**
+## 🔧 Tech Stack
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.75rem;">
+<!-- Frontend Languages & Frameworks -->
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="36" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="36" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="36" alt="React"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="36" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="36" alt="CSS3"/>
+</p>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
-  </a>
-  
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" />
-  </a>
-  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" />
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" />
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" />
-  </a>
-  
-  <a href="https://mui.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="50" height="50" />
-  </a>
-  
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50" />
-  </a>
-  
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="./assets/favicons/express-white.svg" alt="express" width="50" height="50" style="filter: brightness(0) invert(1);" />
-  </a>
-  
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
-  </a>
-  
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" />
-  </a>
-  
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50" />
-  </a>
-  
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" />
-  </a>
-  
-  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma" width="50" height="50" />
-  </a>
-  
-  <a href="https://www.passportjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.passportjs.org/images/logo.svg" alt="Passport.js" width="50" height="50" />
-  </a>
-  
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="./assets/favicons/flask-dark.svg" alt="Flask" width="50" height="50" style="filter: invert(1);" />
-  </a>
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" />
-  </a>
-  
-  <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="50" height="50" />
-  </a>
-  
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="./assets/favicons/vite.svg" alt="Vite" width="50" height="50" style="filter: brightness(0) invert(1);" />
-  </a>
-  
-  <a href="https://railway.app/" target="_blank" rel="noreferrer">
-    <img src="https://railway.app/brand/logo-light.svg" alt="Railway" width="50" height="50" />
-  </a>
-  
-  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="50" height="50" />
-  </a>
-  
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50" />
-  </a>
-  
-  <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="50" height="50" />
-  </a>
-  
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="50" height="50" />
-  </a>
-  
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-  <img src="./assets/favicons/tableau-icon-svgrepo-com.svg" alt="tableau" width="50" height="50" />
-  </a>
-  <a href="https://openai.com/" target="_blank" rel="noreferrer">
-    <img src="./assets/favicons/open-ai-white.svg" alt="OpenAI" width="50" height="50" />
-  </a>
+<!-- Frontend Styling & UI -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" height="36" alt="Material UI"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="36" alt="Tailwind CSS"/>
+</p>
 
-</div>
+<!-- Backend & Database -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="36" alt="Python"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="36" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" height="36" alt="Express"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="36" alt="Flask"/>
+</p>
+
+<!-- Databases & ORM -->
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="36" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="36" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" height="36" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white" height="36" alt="Passport.js"/>
+</p>
+
+<!-- Developer Tools & Testing -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="36" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="36" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" height="36" alt="Jest"/>
+  <img src="https://img.shields.io/badge/Vitest-677DF2?style=for-the-badge&logo=vitest&logoColor=white" height="36" alt="Vitest"/>
+</p>
+
+<!-- Build Tools & DevOps -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" height="36" alt="Webpack"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="36" alt="Vite"/>
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" height="36" alt="Railway"/>
+</p>
+
+<!-- Data Science & AI -->
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="36" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="36" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="36" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" height="36" alt="Chart.js"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="36" alt="OpenAI SDK"/>
+</p>
 
 ## ⚔️ **Stats**
 
@@ -133,6 +85,29 @@ I'm Farhan, a developer who likes building web apps and playing with AI models. 
 </p>
 
 </div>
+
+<h2 align="center">🚀 Latest Project</h2>
+<p align="center">
+  <img src="./assets/projects/FoodLensIcon.png" alt="FoodLens Logo" width="250" height="250" />
+</p>
+
+<p align="center">
+  <b>FoodLens</b> helps you scan any food to instantly get nutrition facts, track calories, and manage your diet with ease.
+</p>
+
+<p align="center">
+  <a href="https://foodlens.up.railway.app" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-foodlens.up.railway.app-brightgreen?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Etativel/FoodLens" target="_blank">
+    <img src="https://img.shields.io/badge/💻_View_Code-GitHub-blue?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
+  <img src="https://img.shields.io/badge/node-%3E%3D%2016.0.0-brightgreen" />
+</p>
 
 <p align="center">
   <img src="https://res.cloudinary.com/dgndmndq3/image/upload/v1748354693/bottom-scroll-2_n1cf7j.png" alt="Scroll Bottom" width="100%" height="100" />
