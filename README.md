@@ -123,9 +123,9 @@ I'm Farhan, a developer who likes building web apps and playing with AI models. 
 
 ## ⚔️ **Stats**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etativel&hide=html,css,less,shell&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api?username=etativel&theme=radical" />
+<p align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etativel&hide=html,css,less,shell&theme=radical" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=etativel&theme=radical" width="350" />
 </p>
 
 </div>
