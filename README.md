@@ -74,7 +74,7 @@ I'm Farhan, a developer who likes building web apps and playing with AI models. 
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="36" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="36" alt="Tableau"/>
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" height="36" alt="Chart.js"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="36" alt="OpenAI SDK"/>
+  <img src="https://img.shields.io/badge/OpenAI SDK-412991?style=for-the-badge&logo=openai&logoColor=white" height="36" alt="OpenAI SDK"/>
 </p>
 
 ## ⚔️ **Stats**
@@ -86,7 +86,7 @@ I'm Farhan, a developer who likes building web apps and playing with AI models. 
 
 </div>
 
-<p align="center">🚀 Latest Project</p>
+<h2 align="center">🚀 Latest Project</h2>
 <p align="center">
   <img src="./assets/projects/FoodLensIcon.png" alt="FoodLens Logo" width="150" height="150" />
 </p>
