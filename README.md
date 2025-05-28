@@ -4,12 +4,16 @@
 
 <div style="margin-left: 5rem; margin-right: 5rem; border-left: 3px solid ; border-right: 3px solid; padding-left: 1rem; padding-right: 1rem;">
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Website-farhanm.site-gold?style=for-the-badge)](https://farhanm.site/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/muhammad-farhan-m-082989271/)
-[![Email](https://img.shields.io/badge/✉️_Email-Contact-red?style=for-the-badge)](mailto:farhanmaulana.dev@gmail.com)
-
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <a href="https://farhanm.site/">
+    <img src="https://img.shields.io/badge/🌐_Website-farhanm.site-gold?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-farhan-m-082989271/">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-blue?style=for-the-badge" />
+  </a>
+  <a href="mailto:farhanmaulana.dev@gmail.com">
+    <img src="https://img.shields.io/badge/✉️_Email-Contact-red?style=for-the-badge" />
+  </a>
 </div>
 
 ## 📜 **Hey There!**
