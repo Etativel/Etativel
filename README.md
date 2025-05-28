@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://res.cloudinary.com/dgndmndq3/image/upload/v1748354693/top-scroll-2_q7uhcr.png" alt="Scroll Top" width="100%" height="100" />
-</p>
+![alt text](./assets/top-scroll-2.svg)
+
+<div style="margin-left: 5rem; margin-right: 5rem; border-left: 3px solid ; border-right: 3px solid; padding-left: 1rem; padding-right: 1rem;">
 
 <div align="center">
 
@@ -9,8 +9,6 @@
 [![Email](https://img.shields.io/badge/📜_Raven-Email-red?style=for-the-badge)](mailto:farhanmaulana.dev@gmail.com)
 
 </div>
-
----
 
 ## 📜 **Hey There!**
 
@@ -38,7 +36,7 @@ I'm Farhan, a developer who likes building web apps and playing with AI models. 
 
 **Tools:** Git, Railway, Prisma ORM
 
----
+</div>
 
 <p align="center">
   <img src="https://res.cloudinary.com/dgndmndq3/image/upload/v1748354693/bottom-scroll-2_n1cf7j.png" alt="Scroll Bottom" width="100%" height="140" />
