@@ -16,14 +16,6 @@
 
 I'm Farhan, a developer who likes building web apps and playing with AI models. I enjoy building exciting projects involving **Web Development** and **machine learning**.
 
-## ⚔️ **My Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=etativel&theme=radical" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etativel&hide=html,css,less,shell&theme=radical" />
-</p>
-
 ## 🗡️ **Tech Stack**
 
 <p align="left"> 
@@ -54,6 +46,13 @@ I'm Farhan, a developer who likes building web apps and playing with AI models. 
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/> </a> 
 <a href="https://openai.com/" target="_blank" rel="noreferrer"> <img src="./assets/favicons/open-ai-white.svg" alt="openai" width="50" height="50"/> </a> 
 </p>
+
+## ⚔️ **My Stats**
+
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 1rem;">
+  <img src="https://github-readme-stats.vercel.app/api?username=etativel&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etativel&hide=html,css,less,shell&theme=radical" width="400" />
+</div>
 
 </div>
 
