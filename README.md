@@ -86,7 +86,7 @@ I'm Farhan, a developer who likes building web apps and playing with AI models. 
 
 </div>
 
-<h2 align="center">🚀 Latest Project</h2>
+<p align="center">🚀 Latest Project</p>
 <p align="center">
   <img src="./assets/projects/FoodLensIcon.png" alt="FoodLens Logo" width="150" height="150" />
 </p>
