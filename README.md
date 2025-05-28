@@ -14,17 +14,17 @@
 
 ## 📜 **Hey There!**
 
-I'm Farhan, a developer who likes building web apps and playing with AI models. Graduated from **Airlangga University** with a Data Science degree. I love working on some cool projects involving **React**, **Node.js**, and **machine learning**.
+I'm Farhan, a developer who likes building web apps and playing with AI models. I enjoy building exciting projects involving **Web Development** and **machine learning**.
 
-## ⚔️ **Stuff I've Built**
+## ⚔️ **My Stats**
 
-**🔮 FoodLens** - Food tracking app that scans your meals using **OpenAI Vision API** with **React/Node.js/Flask**
-
-**📰 Nodes Blog** - Blogging platform with user auth and content management using **TinyMCE**
-
-**☁️ Cloud Storage** - File storage system like Google Drive with **Prisma ORM** and **Cloudinary**
-
-**📋 Resume Builder** - Simple resume maker with PDF export functionality
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=etativel&theme=radical" />
+ </p>
+ 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etativel&hide=html,css,less,shell&theme=radical" />
+</p>
 
 ## 🗡️ **Tech Stack**
 
