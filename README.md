@@ -49,7 +49,7 @@ I'm Farhan, a developer who likes building web apps and playing with AI models. 
   </a>
   
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50" style="filter: brightness(0) invert(1);" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="50" height="50" style="filter: brightness(0) invert(1);" />
   </a>
   
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
@@ -77,7 +77,7 @@ I'm Farhan, a developer who likes building web apps and playing with AI models. 
   </a>
   
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50" style="filter: invert(1);" />
+    <img src="./assets/favicons/flask-dark.svg" alt="Flask" width="50" height="50" style="filter: invert(1);" />
   </a>
   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -89,7 +89,7 @@ I'm Farhan, a developer who likes building web apps and playing with AI models. 
   </a>
   
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="50" height="50" style="filter: brightness(0) invert(1);" />
+    <img src="./assets/favicons/vite.svg" alt="Vite" width="50" height="50" style="filter: brightness(0) invert(1);" />
   </a>
   
   <a href="https://railway.app/" target="_blank" rel="noreferrer">
@@ -112,13 +112,16 @@ I'm Farhan, a developer who likes building web apps and playing with AI models. 
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="50" height="50" />
   </a>
   
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+  <img src="./assets/favicons/tableau-icon-svgrepo-com.svg" alt="tableau" width="50" height="50" />
+  </a>
   <a href="https://openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" alt="OpenAI" width="50" height="50" />
+    <img src="./assets/favicons/open-ai-white.svg" alt="OpenAI" width="50" height="50" />
   </a>
 
 </div>
 
-## ⚔️ **My Stats**
+## ⚔️ **Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etativel&hide=html,css,less,shell&theme=radical" />
