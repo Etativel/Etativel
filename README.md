@@ -79,10 +79,10 @@ I'm Farhan, a developer who likes building web apps and playing with AI models. 
 
 ## ⚔️ **Stats**
 
-<div align="center" style="margin-bottom: 20px;">
+<div align="center" style="margin-bottom: 40px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etativel&hide=html,css,less,shell&theme=radical" />
 </div>
-<div align="center" style="margin-bottom: 20px;">
+<div align="center" style="margin-bottom: 40px;">
   <img src="https://github-readme-stats.vercel.app/api?username=etativel&theme=radical" />
 </div>
 <div align="center">
