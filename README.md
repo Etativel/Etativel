@@ -21,7 +21,7 @@
 
 ## 📜 **Hey There!**
 
-I'm Farhan, a developer who likes building web apps and building AI models. I enjoy building exciting projects involving **Web Development** and **machine learning**.
+I'm Farhan, a developer who likes building web apps and exploring AI model development. I enjoy building exciting projects involving **Web Development** and **machine learning**.
 
 ## 🔧 Tech Stack
 
