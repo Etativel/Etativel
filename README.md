@@ -11,7 +11,7 @@
   <a href="https://farhanm.site/">
     <img src="https://img.shields.io/badge/🌐_Website-farhanm.site-gold?style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-farhan-m-082989271/">
+  <a href="https://www.linkedin.com/in/muhammad-farhan-maulana-a39371369/">
     <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-blue?style=for-the-badge" />
   </a>
   <a href="mailto:farhanmaulana.dev@gmail.com">
