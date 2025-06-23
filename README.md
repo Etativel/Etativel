@@ -97,8 +97,6 @@ I'm Farhan, a developer who likes building web apps and exploring AI model devel
 </div>
 <h2 align="center">🚀 Latest Projects</h2>
 
-<h2 align="center"><strong>FireCast</strong></h2>
-
 <p align="center">
   <img src="./assets/projects/firecast-icon.png" alt="FireCast Logo" width="150" height="150" />
 </p>
@@ -122,8 +120,6 @@ I'm Farhan, a developer who likes building web apps and exploring AI model devel
 </p>
 
 </hr>
-
-<h2 align="center"><strong>FoodLens</strong></h2>
 
 <p align="center">
   <img src="./assets/projects/FoodLensIcon.png" alt="FoodLens Logo" width="150" height="150" />
