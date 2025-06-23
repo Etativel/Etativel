@@ -98,8 +98,36 @@ I'm Farhan, a developer who likes building web apps and exploring AI model devel
 
 <h2 align="center">🚀 Latest Project</h2>
 
-<p align = "center">
+<p align="center" style="font-size: 24px; font-weight: bold;">
   FoodLens
+</p>
+
+<p align="center">
+  <img src="./assets/projects/FoodLensIcon.png" alt="FoodLens Logo" width="150" height="150" />
+</p>
+
+<p align="center">
+  <b>FoodLens</b> helps you scan any food to instantly get nutrition facts, track calories, and manage your diet with ease.
+</p>
+
+<p align="center">
+  <a href="https://foodlens.up.railway.app" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-foodlens.up.railway.app-brightgreen?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Etativel/FoodLens" target="_blank">
+    <img src="https://img.shields.io/badge/💻_View_Code-GitHub-blue?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
+  <img src="https://img.shields.io/badge/node-%3E%3D%2016.0.0-brightgreen" />
+</p>
+
+<!-- 2nd -->
+
+<p align="center" style="font-size: 24px; font-weight: bold;">
+  FireCast
 </p>
 
 <p align="center">
