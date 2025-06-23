@@ -98,7 +98,7 @@ I'm Farhan, a developer who likes building web apps and exploring AI model devel
 <h2 align="center">🚀 Latest Projects</h2>
 
 <p align="center">
-  <img src="./assets/projects/firecast-icon.png" alt="FireCast Logo" width="230" height="230" />
+  <img src="./assets/projects/firecast-icon.png" alt="FireCast Logo" width="200" height="200" />
 </p>
 
 <p align="center">
