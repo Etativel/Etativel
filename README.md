@@ -119,7 +119,7 @@ I'm Farhan, a developer who likes building web apps and exploring AI model devel
   <img src="https://img.shields.io/badge/node-%3E%3D%2016.0.0-brightgreen" />
 </p>
 
-</hr>
+<hr/>
 
 <p align="center">
   <img src="./assets/projects/FoodLensIcon.png" alt="FoodLens Logo" width="150" height="150" />
